@@ -1,0 +1,23 @@
+# Python specific
+*.pyc
+__pycache__/
+venv/
+*.pyo
+.DS_Store
+
+# macOS specific
+*.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency directories
+.env/
+env/
+venv/

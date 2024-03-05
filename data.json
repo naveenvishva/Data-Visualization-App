@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "John",
+        "Age": 22,
+        "Gender": "Male",
+        "Grade": "A"
+    },
+    {
+        "Name": "Alice",
+        "Age": 21,
+        "Gender": "Female",
+        "Grade": "B"
+    },
+    {
+        "Name": "Bob",
+        "Age": 23,
+        "Gender": "Male",
+        "Grade": "C"
+    },
+    {
+        "Name": "Eva",
+        "Age": 20,
+        "Gender": "Female",
+        "Grade": "A"
+    },
+    {
+        "Name": "Charlie",
+        "Age": 22,
+        "Gender": "Male",
+        "Grade": "B"
+    },
+    {
+        "Name": "Sophia",
+        "Age": 24,
+        "Gender": "Female",
+        "Grade": "C"
+    },
+    {
+        "Name": "Daniel",
+        "Age": 23,
+        "Gender": "Male",
+        "Grade": "B"
+    },
+    {
+        "Name": "Olivia",
+        "Age": 20,
+        "Gender": "Female",
+        "Grade": "A"
+    },
+    {
+        "Name": "Emma",
+        "Age": 22,
+        "Gender": "Female",
+        "Grade": "A"
+    },
+    {
+        "Name": "William",
+        "Age": 23,
+        "Gender": "Male",
+        "Grade": "C"
+    }
+]
